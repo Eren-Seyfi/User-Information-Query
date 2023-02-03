@@ -1,3 +1,7 @@
-# User Information Query
-Generating json file and registering new users with Node Js. List registered users. Deleting registered users. Update saved users
+# Kullanıcı Bilgi Sorgulama
+# JSON dosyası oluşturuluyor
+# JSON dosyasındaki kullanıcılar ekliyor
+# JSON dosyasındaki kullanıcıları listeliyor
+# JSON dosyasındaki kullanıcıları güncelliyor
+# JSON dosyasındaki kullanıcıları siliyor
 <img src="Nodejs.jpg" alt="Nodejs">
